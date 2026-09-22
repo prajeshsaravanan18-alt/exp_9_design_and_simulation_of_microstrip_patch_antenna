@@ -158,6 +158,10 @@ This experiment uses the **inset microstrip line feed** (or coaxial probe feed, 
 | HPBW (H-plane, $\phi = 90^\circ$) | **84.6** | — | Degrees ($^\circ$) |
 
 ---
+<img width="996" height="450" alt="image" src="https://github.com/user-attachments/assets/c5581e63-f99c-4a5a-bc90-5fbefd90cb0f" />
+<img width="1080" height="588" alt="image" src="https://github.com/user-attachments/assets/d42b5d5f-9843-4318-b9ea-80b4d975f854" />
+
+<img width="1080" height="470" alt="image" src="https://github.com/user-attachments/assets/b33d37c7-132c-4fc8-8457-015906f7d49a" />
 
 ## Result
 
